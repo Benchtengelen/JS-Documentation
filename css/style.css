@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+}
+
+.document {
+    text-align: center;
+    font-size: 25px;
+}
+
+.nav {
+    width: 290px;
+    height: 1100px;
+    background-color: whitesmoke;
+    float: left;
+    overflow: scroll;
+    position: fixed;
+}
+
+#intro1 {
+text-decoration: none;
+color: black;
+padding-left: 20px;
+font-size: 20px;
+}
+
+.intro2 {
+    margin:0 0 10px 10px;
+}
+
+.sag {
+    width: 1000px;
+    margin: auto;
+    /* padding-right: -10px; */
+    margin-right: 180px;
+}
+
+
+
